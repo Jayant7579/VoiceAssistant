@@ -3,10 +3,17 @@ A voice assistant using Python is a cutting-edge application that leverages the 
 
 # Import Libraries
 import pyttsx3 
+
 import speech_recognition as sr 
+
 import datetime
+
 import wikipedia 
+
 import webbrowser
+
 import os
+
 import smtplib
+
 as `pip install`
