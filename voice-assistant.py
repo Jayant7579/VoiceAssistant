@@ -94,8 +94,8 @@ if __name__ == "__main__":
             strTime = datetime.datetime.now().strftime("%H:%M:%S")    
             speak(f"Sir, the time is {strTime}")
             
-        elif '' in query:
-            speak('')    
+        elif 'tell me who is the prime minister of india?' in query:
+            speak('the prime minister of india is mr. narendra damodar das modi')    
 
         
 
